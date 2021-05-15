@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://blog.nilproductions.com/</link>
+    <link>https://nfbatterymyx.github.io/nfbatterymyx/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Jun 2014 11:24:00 +0700</lastBuildDate><atom:link href="http://blog.nilproductions.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jun 2014 11:24:00 +0700</lastBuildDate><atom:link href="https://nfbatterymyx.github.io/nfbatterymyx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Incorporated Features</title>
-      <link>http://blog.nilproductions.com/post/incorporated/</link>
+      <link>https://nfbatterymyx.github.io/nfbatterymyx/post/incorporated/</link>
       <pubDate>Thu, 19 Jun 2014 11:24:00 +0700</pubDate>
       
-      <guid>http://blog.nilproductions.com/post/incorporated/</guid>
+      <guid>https://nfbatterymyx.github.io/nfbatterymyx/post/incorporated/</guid>
       <description>Incorporated provides a great typography, responsive design, author details, semantic markup and more.
 You can set customize post covers, and other things directly in the post front matter:
 Configurable &amp;amp; Code Snipped Highlighting Highlighting requires pygments, and to use the hugo-incorporated highlight style, pygmentsuseclasses: true must be in your site config.
@@ -24,10 +24,10 @@ Stay tuned for updates.</description>
     
     <item>
       <title>About</title>
-      <link>http://blog.nilproductions.com/about/</link>
+      <link>https://nfbatterymyx.github.io/nfbatterymyx/about/</link>
       <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.nilproductions.com/about/</guid>
+      <guid>https://nfbatterymyx.github.io/nfbatterymyx/about/</guid>
       <description></description>
     </item>
     
